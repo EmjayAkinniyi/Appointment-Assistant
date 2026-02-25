@@ -7,8 +7,7 @@
 ## 📌 Project Overview
 
 This project is a production-grade, AI-powered Appointment Assistant System 
-designed and implemented as the final project for **MBAN 5510 — AI Systems and 
-Agentic Workflows**.
+designed and implemented as the final project for **MBAN 5510 —2**
 
 The system demonstrates middleware-driven orchestration using **LangGraph** as 
 a stateful workflow engine, with **Human-in-the-Loop (HITL)** review as a core 
@@ -281,9 +280,8 @@ Bridging analytical rigour with practical AI implementation across
 Accounting, Auditing, HR, Business Consulting, and Entrepreneurship.
 
 🔗 [GitHub](https://github.com/EmjayAkinniyi) | 
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-here)
+[LinkedIn](www.linkedin.com/in/mojisola-akinniyi-23788a174)
 
----
 
 ## 📄 License
 
